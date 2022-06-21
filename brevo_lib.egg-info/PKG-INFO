@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: brevo-lib
+Version: 0.0.3
+Summary: Libreria de conexion entre NodeMCU y Brevo app.
+Home-page: https://github.com/sebas1012
+Author: Sebastián Henao L.
+Author-email: xxx@gmail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# brevo-core
+Librería para la conexión entre NodeMCU y Brevo.
+
+

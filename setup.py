@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 PACKAGE_NAME = 'brevo_lib'
 AUTHOR = 'Sebastián Henao L.'
 AUTHOR_EMAIL = 'xxx@gmail.com'

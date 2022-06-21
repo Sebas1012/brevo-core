@@ -1,0 +1,8 @@
+README.md
+setup.py
+brevo_lib/__init__.py
+brevo_lib/brevo.py
+brevo_lib.egg-info/PKG-INFO
+brevo_lib.egg-info/SOURCES.txt
+brevo_lib.egg-info/dependency_links.txt
+brevo_lib.egg-info/top_level.txt
